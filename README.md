@@ -1,5 +1,9 @@
 # youtube-ui
 
+## Preview
+
+[View work in progress](https://machieajones.github.io/youtube-ui/)
+
 ## Installation
 
 Install the parcel and sass dependencies
